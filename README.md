@@ -1,6 +1,6 @@
 # Bongkar Calculator Pro
 
-Versi GitHub Pages Open Here.
+Versi GitHub Pages [Open Here](https://rachmawan123.github.io/DataBongkar/).
 
 ## Fitur
 - Riwayat transaksi dan perhitungan HD/LC.
